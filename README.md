@@ -16,3 +16,5 @@ Ce projet nous a permis également de comparer à l'usage les deux langages R et
   * Python exécute du code C pour économiser les ressources mémoire ;
   * Il est généralement plus simple de faire des tâches non statistiques en Python (BeautifulSoup, requests...) ;
   * R est plus fonctionnel, Python est plus orienté objet.
+
+### Notre présentation: [Ici](https://docs.google.com/presentation/d/1iHZKqmYZLNCZqtMP9jks-_yL91OoZd0aZe1M5SE51_w/edit?usp=sharing)
