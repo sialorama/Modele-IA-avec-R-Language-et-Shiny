@@ -5,7 +5,7 @@ Le jeu de données proposé est celui de vente de maisons sur Paris.
 Nous avons utilisé R pour réaliser un modèle prédectif comme POC technologique.
 
 Nous avons créé un script contenant un modèle de régression linéaire avec R. Dans le but d'estimer les prix des biens immobiliers sur Paris.
-Et nous avons utiliser les bibliothèques Shiny et GGPlot pour afficher graphiquement les résultats de la prédiction.
+Et nous avons utilisé les bibliothèques Shiny et GGPlot pour afficher graphiquement les résultats de la prédiction.
 
 Ce projet nous a permis également de comparer à l'usage les deux langages R et Python.
 
